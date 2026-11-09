@@ -16,7 +16,7 @@
 		
 		System.out.println(mid);
 		System.out.println(mpw);
-		
+		 
 	%>
 
 	<h3><%= mid %>님 로그인 성공</h3>
